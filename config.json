@@ -1,6 +1,7 @@
 {
-    "title":"Blog Title",
+    "title":"GiffGaff中文使用手册",
     "subTitle":"Blog description",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "urlMode":"issue"
 }
