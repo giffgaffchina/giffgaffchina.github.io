@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GiffGaff中文使用手册</title><link>https://giffgaffchina.github.io</link><description>Blog description</description><copyright>GiffGaff中文使用手册</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://giffgaffchina.github.io</link></image><lastBuildDate>Thu, 07 Nov 2024 18:30:48 +0000</lastBuildDate><managingEditor>GiffGaff中文使用手册</managingEditor><ttl>60</ttl><webMaster>GiffGaff中文使用手册</webMaster><item><title>注册接码问题</title><link>https://giffgaffchina.github.io/post/4.html</link><description>注册接码常见问题&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GiffGaff中文使用手册</title><link>https://giffgaffchina.github.io</link><description>Blog description</description><copyright>GiffGaff中文使用手册</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://giffgaffchina.github.io</link></image><lastBuildDate>Thu, 07 Nov 2024 18:32:02 +0000</lastBuildDate><managingEditor>GiffGaff中文使用手册</managingEditor><ttl>60</ttl><webMaster>GiffGaff中文使用手册</webMaster><item><title>国内漫游资费</title><link>https://giffgaffchina.github.io/post/5.html</link><description>20p表示20便士，1便士=0.01英镑，20便士=0.2英镑&#13;
+&#13;
+漫游上网 = 每兆0.2磅&#13;
+&#13;
+拨打电话及语音信箱 = 每分钟1磅&#13;
+&#13;
+接听电话 = 每分钟1磅&#13;
+&#13;
+发短信 = 每条0.3磅&#13;
+&#13;
+接收短信免费&#13;
+&#13;
+![image](https://github.com/user-attachments/assets/d180e9e7-def5-4a1b-98f1-737f00810264)&#13;
+&#13;
+Q：为什么首次充值后会被扣0.01磅？&#13;
+&#13;
+A：有不少卡友遇到了这个情况，后期账单里也可以看到此费用为漫游费，有且仅有一次，不会一直扣费，还请安心。</description><guid isPermaLink="true">https://giffgaffchina.github.io/post/5.html</guid><pubDate>Thu, 07 Nov 2024 18:31:38 +0000</pubDate></item><item><title>注册接码问题</title><link>https://giffgaffchina.github.io/post/4.html</link><description>注册接码常见问题&#13;
 Q：App提示手机号码不正确？&#13;
 &#13;
 A：用giffgaff手机号码注册各类APP时候，国际区号选择UK（英国）或+44，去掉国内区号0，输入10位号码7xxxxxxxxx即可&#13;
