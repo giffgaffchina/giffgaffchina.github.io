@@ -16,11 +16,13 @@
 
 第四步，选择【Text message/短信】，点击下方黄色按钮【Send a reset link/发出重置链接】
 ![image](https://github.com/user-attachments/assets/5aff9fab-e1dd-4358-9799-4b1fb352735c)
-
+![image](https://github.com/user-attachments/assets/177fab9e-8df5-41a9-88ea-7a315ffd4005)
 
 
 第五步，收到重置短信，并点击短信内置链接后，创建一个新的密码
-![image](https://github.com/user-attachments/assets/177fab9e-8df5-41a9-88ea-7a315ffd4005)
+![image](https://github.com/user-attachments/assets/f98cbc57-d5ce-4415-8708-bcb81c7e66f3)
+![image](https://github.com/user-attachments/assets/f9d13285-44cc-4232-94e5-429450483125)
+
 
 
 
