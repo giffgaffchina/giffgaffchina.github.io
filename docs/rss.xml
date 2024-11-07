@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GiffGaff中文使用手册</title><link>https://giffgaffchina.github.io</link><description>Blog description</description><copyright>GiffGaff中文使用手册</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://giffgaffchina.github.io</link></image><lastBuildDate>Thu, 07 Nov 2024 18:35:37 +0000</lastBuildDate><managingEditor>GiffGaff中文使用手册</managingEditor><ttl>60</ttl><webMaster>GiffGaff中文使用手册</webMaster><item><title>giffgaff 常见问题（新人必看）</title><link>https://giffgaffchina.github.io/post/7.html</link><description>### 常见问题汇总&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GiffGaff中文使用手册</title><link>https://giffgaffchina.github.io</link><description>Blog description</description><copyright>GiffGaff中文使用手册</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://giffgaffchina.github.io</link></image><lastBuildDate>Thu, 07 Nov 2024 18:38:18 +0000</lastBuildDate><managingEditor>GiffGaff中文使用手册</managingEditor><ttl>60</ttl><webMaster>GiffGaff中文使用手册</webMaster><item><title>Giffgaff 修改邮箱（新人必看）</title><link>https://giffgaffchina.github.io/post/8.html</link><description>### 准备工作：&#13;
+&#13;
+①科学上网环境&#13;
+&#13;
+②已经重置好账户密码，还没有的请先参考 [这篇指南](https://telegra.ph/How-to-reset-my-password-10-29)&#13;
+&#13;
+&#13;
+&#13;
+首先，登录官网或官方APP，[https://www.giffgaff.com/profile/details](https://www.giffgaff.com/profile/details)，点击页面的Profile and Setting栏目。</description><guid isPermaLink="true">https://giffgaffchina.github.io/post/8.html</guid><pubDate>Thu, 07 Nov 2024 18:37:54 +0000</pubDate></item><item><title>giffgaff 常见问题（新人必看）</title><link>https://giffgaffchina.github.io/post/7.html</link><description>### 常见问题汇总&#13;
 Q：手机号码正确，无法登录官网或软件提示号码格式不对&#13;
 &#13;
 A：英国手机号码长度为11位数字，国际码0044（也叫国际区号+44），国内区号0占用了1个数字，英国的手机号码唯一标识7占用了1个数字，剩下的9位数字是具体电话号码。</description><guid isPermaLink="true">https://giffgaffchina.github.io/post/7.html</guid><pubDate>Thu, 07 Nov 2024 18:35:13 +0000</pubDate></item><item><title>giffgaff 常用功能（新人必看）</title><link>https://giffgaffchina.github.io/post/6.html</link><description>### 常用功能&#13;
