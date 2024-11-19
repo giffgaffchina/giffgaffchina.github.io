@@ -1,4 +1,4 @@
-![image](http://img.315789.xyz/giffgaff_img/e894e0b1-8749-4b04-bf0a-3cb9dca41c7b.png)
+![image](https://github.com/user-attachments/assets/e894e0b1-8749-4b04-bf0a-3cb9dca41c7b)
 
    giffgaff是来自英国的一家新锐低成本运营商，隶属于英国三大运营商O2旗下，2009年创立，采用了无营业网点，无热线客服，灵活套餐的特色服务来降低用户成本，特别适合短期游客及英国留学生。它支持全球漫游，在中国也可收发短信，接听电话和上网
 
@@ -14,17 +14,17 @@
 
 - 兼容性好：所有海外APP/应用/银行卡均可支持，例如TikTok/Twitter/Facebook/Instagram/LINE/WhatsApp/Telegram等等，ChatGPT3.5/4.0，苹果ID，Amazon，PayPal，花旗，渣打，巴克莱，德意志银行，瑞士银行，WISE汇款等等
 
-![image](http://img.315789.xyz/giffgaff_img/fce045fa-3a03-4420-a2cb-27d70ac0d67d.png)
+![image](https://github.com/user-attachments/assets/fce045fa-3a03-4420-a2cb-27d70ac0d67d)
 
 
 ### ❤️【空白卡 套餐】
 
 全新未激活卡，不含话费，没有分配手机号，需要您用VISA或Master实体卡充值至少10英镑激活后，方可使用，本店所售卡支持充值就送5磅话费的福利。
 
-![image](http://img.315789.xyz/giffgaff_img/28552262-7f62-4ac3-bc84-76a99851ddbe.png)
+![image](https://github.com/user-attachments/assets/28552262-7f62-4ac3-bc84-76a99851ddbe)
 
 ### ❤️【预充值卡 套餐】
 
 全新未激活卡，下单当日客服帮您充值并激活15磅话费，确保激活日期最新，时间可查，插卡即用，无须注册、绑定任何个人信息！
 
-![image](http://img.315789.xyz/giffgaff_img/dda4caae-d50f-4764-93dd-8d428cb3c117.png)
+![image](https://github.com/user-attachments/assets/dda4caae-d50f-4764-93dd-8d428cb3c117)
