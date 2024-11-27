@@ -16,12 +16,12 @@ giffgaff和国内运营商最大的不同点之一，就是把开卡环节放在
 ### 接下来是具体的操作步骤，非常简单
 
 首先，登录https://www.giffgaff.com/profile/details/getnumber ，输入你现在的手机号和账户密码，就能进入以下界面，点击黄色按钮/Get a new giffgaff number
-![image](https://github.com/user-attachments/assets/031d2b6d-a63a-4fc6-8b68-d47a3623ae48)
+![image](https://img.freesim.cc/ggimg/4.png)
 
 
 在空白对话框内输入你的账户密码，点击红色按钮/change my number，这里提醒各位，giffgaff官方只提供两次换号机会，且号码依然是随机分配。基于多次换号经验，新的号码基本不带中国人最不爱的4了，以图为证。
 
-![image](https://github.com/user-attachments/assets/a44bd0d9-38e0-4d1b-a00b-e5aa19b7443f)
+![image](https://img.freesim.cc/ggimg/5.png)
 
 最后系统自动跳转到【个人信息与设定】界面，显示你的新号码。这里提醒下，换号完成后，SIM卡信号会消失，最长不超过24小时就会恢复，稍安勿躁哦。
-![image](https://github.com/user-attachments/assets/76f5f542-ea56-4a13-8816-73e83cec4549)
+![image](https://img.freesim.cc/ggimg/6.png)
