@@ -1,4 +1,4 @@
-![photo_2024-11-08_03-38-17_副本 (1)](https://github.com/user-attachments/assets/a9d890c7-9690-4129-a46e-fcbfcda83fed)
+![photo_2024-11-08_03-38-17_副本 (1)](https://img.freesim.cc/ggimg/buy.jpg)
 
 - 除西藏新疆外，其它地区正常订购。
 - 空卡费5元（不邮寄，适合esim用户）
