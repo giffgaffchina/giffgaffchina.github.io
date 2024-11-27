@@ -60,13 +60,12 @@ _首次充值_
 五、使用银行卡充值时候，请参考下图红色字体输入您的个人信息。如果没有看到5磅的话费赠送字样，说明您的卡不具备充值送话费的福利，本店卡一律都有这个福利哦。提醒一下，账单地址的国家可以选China，这样不会强制验证英国地址。
 ![image](https://img.freesim.cc/ggimg/19.png)
 
-![image](https://img.freesim.cc/ggimg/20.png)
 _仅支持VISA/Master 信用卡或借记卡_
-![image](https://img.freesim.cc/ggimg/21.png)
+![image](https://img.freesim.cc/ggimg/20.png)
 _国家请选中国_
 
 另外，部分银行付款时需要进行 3DS 验证，加载较慢需要耐心等待。
-![image](https://img.freesim.cc/ggimg/22.png)
+![image](https://img.freesim.cc/ggimg/21.png)
 _3DS验证界面_
 
 
