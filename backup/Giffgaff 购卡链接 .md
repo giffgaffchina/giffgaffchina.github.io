@@ -4,7 +4,7 @@
 - 空卡费5元（不邮寄，适合esim用户）
 - 实体卡含快递费15元。
 - 西藏新疆不发货。
-## [订购地址 http://shop.freesim.cc](https://shop.freesim.cc/)
+## 订购地址 [http://shop.giffgaff.us](https://shop.giffgaff.us/)
 ### 注意事项：
 
 ①15点前下单，当日发货，反之则隔日发货，周末正常发货，节假日看仓库安排
