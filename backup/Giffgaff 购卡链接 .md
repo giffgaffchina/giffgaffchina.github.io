@@ -1,8 +1,8 @@
 ![photo_2024-11-08_03-38-17_副本 (1)](https://img.freesim.cc/ggimg/buy.jpg)
 
 - 除西藏新疆外，其它地区正常订购。
-- 空卡费3元（不邮寄，适合esim用户）
-- 实体卡含快递费9.9元。
+- 空卡费2元（不邮寄，适合esim用户）
+- 实体卡含快递费6.8元。
 - 西藏新疆不发货。
 ## 订购地址 [http://shop.giffgaff.us](https://shop.giffgaff.us/)
 ### 注意事项：
