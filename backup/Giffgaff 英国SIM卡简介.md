@@ -1,27 +1,31 @@
-![image](https://img.freesim.cc/ggimg/1.png)
+![image](https://statics.884885.xyz/ggimg/1.png)
 
    giffgaff是来自英国的一家新锐低成本运营商，隶属于英国三大运营商O2旗下，2009年创立，采用了无营业网点，无热线客服，灵活套餐的特色服务来降低用户成本，特别适合短期游客及英国留学生。它支持全球漫游，在中国也可收发短信，接听电话和上网
 
 ### 为什么选择英国 giffgaff SIM 卡？
 
-- 高性价比：0月租，免费接收短信，充值一次，接码🉑用20年+（仅需半年保号一次），可能是国内性价比最高的接码实体卡！
- 
--  安全可靠：到手可用，无需实名，可以免费申请换2次号码，实体卡无须担心因号码被风控，比GV好用
+### 👋 giffgaff的特点
 
-- 全球漫游：支持中国大陆激活及漫游
-
-- 使用便捷：每半年发一条短信即可保号，有web官网及专属官方App
+- 实体卡，非虚拟号（虽然是虚拟运营商，但是实体号码）
+- 支持esim（~~2021年后的~~esim设备可以直接在giffgaff的官方app里自助转esim）
+- 支持WiFi Calling（借助英国IP或分流规则中国地区也可以开启）
+- 0月租（选择pay as you go no monthly plan）
+- 免实名（用官方充值券充值无需真实姓名，中国任一非重复真实地址）
+- 收短信免费，支持注册ChatGPT等几乎所有国际主流APP和服务
+- 支持中国地区漫游（走移动或联通基站）
+- 充值10英镑激活：充值10镑=激活成功，获得一个随机英国号码
+- 保号成本极低：每6个月发一条短信（余额变动）即可保号，充值10镑（90多RMB）可保号25年；（计算规则：充10送5，到手15镑余额，发短信0.3镑/条）
 
 - 兼容性好：所有海外APP/应用/银行卡均可支持，例如TikTok/Twitter/Facebook/Instagram/LINE/WhatsApp/Telegram等等，ChatGPT3.5/4.0，苹果ID，Amazon，PayPal，花旗，渣打，巴克莱，德意志银行，瑞士银行，WISE汇款等等
 
-![image](https://img.freesim.cc/ggimg/2.png)
+![image](https://statics.884885.xyz/ggimg/2.png)
 
 
 ### ❤️【空白卡 套餐】
 
 全新未激活卡，不含话费，没有分配手机号，需要您用VISA或Master实体卡充值至少10英镑激活后，方可使用，本店所售卡支持充值就送5磅话费的福利。
 
-![image](https://img.freesim.cc/ggimg/3.png)
+![image](https://statics.884885.xyz/ggimg/3.png)
 
 ### ❤️【预充值卡 套餐】
 
