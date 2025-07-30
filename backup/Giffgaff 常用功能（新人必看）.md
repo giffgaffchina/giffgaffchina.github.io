@@ -13,7 +13,7 @@
 - 关于关闭语音信箱方法：
 - 
 联系官方客服协助关闭英国保号神卡giffgaff的语音信箱功能防止扣费。
-1、登录 giffgaff 官网账户 (http://www.giffgaff.com/)界面
+1、登录 giffgaff 官网账户 ( http://www.giffgaff.com/ )界面
 2、菜单栏 Help — >Ask for a giffgaff agent
 3、选择Account misuse and security issues
 4、选择 other
