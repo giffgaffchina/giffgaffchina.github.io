@@ -1,3 +1,30 @@
+# 英国实体 SIM 卡 giffgaff 激活使用教程
+
+请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负
+
+购买：[点击这里](https://www.mysim.cc)
+
+## 激活
+
+- 激活需充 10 英镑话费。用支持美元信用卡（卡上有 VISA 或 Master 图标）进行充值，如没有，联系[客服](https://github.com/ssnhd/sim)代激活。
+- 激活后官方随机分配号码，如对号码不满意可以[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)。
+
+1. 打开[官网](https://www.giffgaff.com/activate)，输入卡片上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
+![](https://i.imgur.com/2MvepgL.jpg)
+1. 输入邮箱，点击 **Next**；
+2. 创建密码，点击 **Register**；
+3. 选择 **No,thanks**，点击 **Continue**；
+4. 网页下拉至底部选择 **Pay as you go**，点击 **Continue**；
+5. 选择 10 英镑，点击 **Pay now**；
+6. 输入地址（随意），点击 **Continue**；
+7. 输入信用卡，勾选 **I understand and agree**， 点击 **Place order**；
+8. 付款后出现号码和余额（下图），激活时间一般少于 60 分钟，最多 24 小时，插卡等待有信号即可。
+
+注：日常使用去掉号码前的 0，例如 7547xxxx33（英国区号 +44）；但在登录官网或 App 时，需要加上 0。
+![](https://i.imgur.com/kxlZpJk.png)
+
+
+
 ### giffgaff 手机卡的使用方式和国内手机卡有诸多不同，为了帮助大家快速入门及使用giffgaff，本文将带您了解以下内容：
 
 - 漫游资费
