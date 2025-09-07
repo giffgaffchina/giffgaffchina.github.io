@@ -6,8 +6,8 @@
 
 ## 激活
 
-- 激活需充 10 英镑话费。用支持美元信用卡（卡上有 VISA 或 Master 图标）进行充值，如没有，联系[客服](https://github.com/ssnhd/sim)代激活。
-- 激活后官方随机分配号码，如对号码不满意可以[更改号码](https://github.com/ssnhd/giffgaff?tab=readme-ov-file#更改号码)。
+- 激活需充 10 英镑话费。用支持美元信用卡（卡上有 VISA 或 Master 图标）进行充值，如没有，联系[客服VX: myesim] 代激活。
+- 激活后官方随机分配号码，如对号码不满意可以[更改号码](/post/1.html)。
 
 1. 打开[官网](https://www.giffgaff.com/activate)，输入卡片上 Your Activation Code 的 6 位激活码，点击 **Activate your SIM**；
 ![](https://i.imgur.com/2MvepgL.jpg)
